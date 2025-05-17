@@ -76,5 +76,3 @@ All interactions with the Claude Desktop tool will be logged to your specified S
 * [Slack Incoming Webhooks](https://api.slack.com/messaging/webhooks)
 
 ---
-
-Let me know if you'd like it converted into a `.md` file or hosted in your repo!
